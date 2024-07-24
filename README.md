@@ -6,9 +6,13 @@ This project involves building a comprehensive dashboard for sales management us
 
 # Features
 +Revenue Analysis: Track and analyze revenue streams from various stores and regions.
+
 +Cost Management: Monitor and manage operational costs for better financial planning.
+
 +Profit Tracking: Evaluate profitability across different provinces and stores.
+
 +Geographical Insights: Visualize sales data on a map to identify regional trends.
+
 +Interactive Visuals: Utilize slicers and filters to interact with the data dynamically.
 # Usage
 +Data Preparation: Ensure the dummy data files are placed in the data directory. These files should include revenue, cost, and profit data for all retail stores across the 63 provinces of Vietnam.
@@ -18,10 +22,14 @@ This project involves building a comprehensive dashboard for sales management us
 Interacting with the Dashboard: Use the provided slicers and filters to navigate through the data. Analyze different metrics to gain insights into sales performance.
 
 # Data Structure
+
 +Revenue Data: Contains information about the total sales made by each store in each province.
+
 +Cost Data: Includes operational costs associated with running the stores.
+
 +Profit Data: Derived from revenue and cost data to calculate the profit margins.
 Contributing
+
 We welcome contributions to improve the dashboard and make it more comprehensive. Feel free to open issues or submit pull requests.
 
 
